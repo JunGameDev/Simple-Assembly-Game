@@ -1,5 +1,5 @@
 # Simple-Assembly-Game
-# Copyright (c) 2020 Junyoung Kim. All rights resevered.
+## Copyright (c) 2020 Junyoung Kim. All rights resevered.
 
 ## How to play 
 W = Move player character to up side<br>
